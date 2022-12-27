@@ -1,2 +1,2 @@
-# Cl-nica-M-dica
+# Clinica-Medica
 Desafio de projeto em HTML da Dio.me 
